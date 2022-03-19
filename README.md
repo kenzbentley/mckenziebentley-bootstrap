@@ -1,4 +1,8 @@
-# ICJ Bootstrap Template
+# Mckenzie Bentley 03/10/22
+
+This is a Bootstrap 5 class project for Intro to Coding for Journalists.
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
